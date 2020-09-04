@@ -1,0 +1,3 @@
+When running the program the image files and sound file must be stored at the same level as the python program.
+
+If you are recieving an error regaurding a non existant file, please check the files are store correctly as per above.
